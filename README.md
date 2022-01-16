@@ -73,6 +73,8 @@ The biggest benefit that occurred as a result of the refactoring was an decrease
 Refactoring helps make our code cleaner and more organized. A few advantages of a cleaner code include design and software improvement, debugging, and faster programming. It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward. However, we do not always have the luxury to refactor our code due to disadvantages. These disadvantages may range from having applications that are too large to not having the proper test cases for the existing codes, which may ultimately pose some risk if we try to refactor our code.
 
 The run time for our new analysis.
+
 ![image](https://user-images.githubusercontent.com/95595378/149650669-77338b3a-eb24-4be0-8aab-c520c1f2170e.png)
+
 ![image](https://user-images.githubusercontent.com/95595378/149650674-b4d9d4ab-2745-40ee-b7be-fc9819052606.png)
 
